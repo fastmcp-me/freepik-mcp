@@ -9,7 +9,7 @@ A **Model Context Protocol (MCP) server** that connects your AI assistants (Clau
 ## 🛠️ What tools are available?
 
 - 🎨 **Icon Search & Download** - Find and download icons in multiple formats
-- 📁 **Resource Management** - Access and manage multimedia content  
+- 📁 **Resource Management** - Access and manage multimedia content
 - 🤖 **AI Image Classification** - Automatically classify and analyze images
 - 🖼️ **Image Generation** - Create custom images using Mystic AI
 
@@ -60,10 +60,8 @@ Add this to your `config.json` file:
       "command": "uv",
       "args": [
         "run",
-        "--directory", 
+        "--directory",
         "/FULL/PATH/TO/freepik-mcp",
-        "fastmcp",
-        "run",
         "main.py"
       ],
       "env": {
@@ -92,7 +90,7 @@ Add this to your `config.json` file:
 # Development mode (auto-reload)
 make dev
 
-# Production mode  
+# Production mode
 make run
 
 # Check code quality
@@ -126,7 +124,7 @@ This project uses **Conventional Commits**. Format your commits as:
 
 **Types:**
 - `feat`: New feature
-- `fix`: Bug fix  
+- `fix`: Bug fix
 - `docs`: Documentation changes
 - `style`: Code style changes (formatting, etc.)
 - `refactor`: Code refactoring
@@ -136,7 +134,7 @@ This project uses **Conventional Commits**. Format your commits as:
 **Examples:**
 ```bash
 feat(icons): add search filtering by category
-fix(api): resolve authentication timeout issue  
+fix(api): resolve authentication timeout issue
 docs(readme): update installation instructions
 refactor(mystic): improve error handling logic
 ```
@@ -189,4 +187,4 @@ For detailed API information:
 
 ---
 
-**Ready to create amazing content with AI? 🎨✨** 
+**Ready to create amazing content with AI? 🎨✨**
