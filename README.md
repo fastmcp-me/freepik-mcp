@@ -26,7 +26,7 @@ Before you start, make sure you have:
 ### 1. Clone and navigate
 ```bash
 git clone <REPOSITORY_URL>
-cd freepik-toolkit/fastmcp
+cd freepik-mcp
 ```
 
 ### 2. Install using Makefile
