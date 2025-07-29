@@ -1,4 +1,4 @@
-# Freepik FastMCP Toolkit
+# Freepik MCP
 
 🚀 **MCP Server for seamless Freepik API integration**
 
